@@ -1,0 +1,28 @@
+
+body {
+    font-family: "adorn Serif", georgia, 'times new roman';
+    background-color: rgb(4, 4, 39);
+    color: aliceblue;
+    background-image: url("../assets/img/home-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+a{
+    color: rgb(88, 124, 124);
+    position: relative;
+    padding-bottom: 20px;
+}
+img{
+    border: 5px solid white;
+    padding: 5px ;
+    height: 250px;
+    margin :auto;
+    display: inline-block ;
+    vertical-align: middle;
+}
+.rizz{
+    color: green;
+    font-family: Chiller,papyrus;
+    border: 5px dashed rgb(150, 150, 10);
+    padding: 5px;
+    text-align: center;
